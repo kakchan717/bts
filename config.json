@@ -1,0 +1,90 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "unity"
+    ],
+    "ad_time": 20,
+    "ad_model": [
+      {
+        "name": "unity",
+        "app_id": "3994754",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "rewardedVideo"
+      }
+    ]
+  },
+  "album_config": {
+    "album": [
+      "bts",
+      "jhope",
+      "jimin",
+      "jin",
+      "jungkook",
+      "rm",
+      "suga",
+      "v",
+      "bt21",
+      "fanart"
+    ]
+  },
+  "update_config": {
+    "enable": false,
+    "versionCode": 1,
+    "versionName": "1.0",
+    "title": "",
+    "message": ""
+  },
+  "redirect_config": {
+    "enable": false,
+    "title": "",
+    "message": "",
+    "url": ""
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "",
+        "target": "us",
+        "enable": false
+      },
+      {
+        "link": "",
+        "target": "vn",
+        "enable": false
+      },
+      {
+        "link": "",
+        "target": "def",
+        "enable": false
+      }
+    ]
+  },
+  "shopping_config": {
+    "shopping": [
+      {
+        "data_file_url": "",
+        "target": "def",
+        "enable": false,
+        "show_price": true
+      },
+      {
+        "data_file_url": "",
+        "target": "vn",
+        "enable": false,
+        "show_price": true
+      },
+      {
+        "data_file_url": "",
+        "target": "us",
+        "enable": false,
+        "show_price": true
+      }
+    ]
+  },
+  "moreapp_config": {
+    "moreapp": [
+      
+    ]
+  }
+}
