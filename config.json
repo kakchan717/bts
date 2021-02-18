@@ -48,14 +48,14 @@
   "fanpage_config": {
     "fanpage": [
       {
-        "link": "",
+        "link": "https://www.facebook.com/btswallpaperallmembers/",
         "target": "us",
-        "enable": false
+        "enable": true
       },
       {
-        "link": "",
+        "link": "https://www.facebook.com/btswallpaperallmembers/",
         "target": "vn",
-        "enable": false
+        "enable": true
       },
       {
         "link": "https://www.facebook.com/btswallpaperallmembers/",
