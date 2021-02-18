@@ -7,7 +7,7 @@
     "ad_model": [
       {
         "name": "unity",
-        "app_id": "3994754",
+        "app_id": "3994755",
         "banner_id": "banner",
         "popup_id": "video",
         "reward_id": "rewardedVideo"
@@ -25,6 +25,7 @@
       "suga",
       "v",
       "bt21",
+      "tinytan",
       "fanart"
     ]
   },
@@ -41,6 +42,9 @@
     "message": "",
     "url": ""
   },
+  "youtube_config": {
+    "url": "https://www.youtube.com/channel/UCJJUekTJ9wOuMzZnXbLgBMw"
+  },
   "fanpage_config": {
     "fanpage": [
       {
@@ -54,9 +58,9 @@
         "enable": false
       },
       {
-        "link": "",
+        "link": "https://www.facebook.com/btswallpaperallmembers/",
         "target": "def",
-        "enable": false
+        "enable": true
       }
     ]
   },
@@ -83,8 +87,6 @@
     ]
   },
   "moreapp_config": {
-    "moreapp": [
-      
-    ]
+    "moreapp": []
   }
 }
